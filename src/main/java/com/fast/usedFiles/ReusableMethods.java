@@ -1,4 +1,4 @@
-package com.fastcode.DemoProject;
+package com.fast.usedFiles;
 
 import io.restassured.path.json.*;
 

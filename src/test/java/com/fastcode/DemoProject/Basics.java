@@ -8,6 +8,9 @@ import static org.hamcrest.Matchers.*;
 
 import org.testng.Assert;
 
+import com.fast.usedFiles.PayLoads;
+import com.fast.usedFiles.ReusableMethods;
+
 public class Basics {
 
 	public static void main(String[] args) {
