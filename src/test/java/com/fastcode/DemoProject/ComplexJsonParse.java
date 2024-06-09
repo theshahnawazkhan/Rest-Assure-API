@@ -43,7 +43,6 @@ public class ComplexJsonParse {
 				int copies = js.get("courses["+i+"].copies");
 				System.out.println("copies = "+copies);
 			}		
-		}
-			
+		}		
 	}
 }
